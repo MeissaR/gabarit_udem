@@ -18,13 +18,13 @@ format:
       \setstretch{2}
       \pagestyle{empty}
       \newcommand{\titretravail}{Titre}
-      \newcommand{\auteur}{Nom de l'auteur}
-      \newcommand{\auteurid}{Ni de l'auteur}
+      \newcommand{\auteur}{Meïssa Rebbani}
+      \newcommand{\auteurid}{20048837}
       \newcommand{\cours}{Nom du cours}
       \newcommand{\coursnumero}{Numero du cours}
       \newcommand{\professeur}{Professeur}
-      \newcommand{\departement}{Departement de votre departement}
-      \newcommand{\faculte}{Faculte de votre faculte}
+      \newcommand{\departement}{Departement de sciences politiques}
+      \newcommand{\faculte}{Faculté des arts et des sciences}
       \newcommand{\lieu}{Montreal, Canada}
       \fancyhf{}
       \fancyhead[R]{\thepage}
